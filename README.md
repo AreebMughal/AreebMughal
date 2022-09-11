@@ -4,7 +4,7 @@
 - 🌱 Currently working on a Web Porject using ReactJS and Python - Flask
 - 💞️ I’m looking to collaborate on Web Develpoment
 - 📫 How to reach me: 
--         1. areebmughal779@gmail.com
+-         1. areebarshad.m@gmail.com
 -         2. https://www.linkedin.com/in/areeb-arshad27/
 
 <!---
