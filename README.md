@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AreebArshad
-- 👀 I’m most interested in Backend Development (Web Application, Android Application, Desktop Application).
+- 👀 I’m most interested in Backend Development (Web Application, Desktop Application).
 - 🦾 I have completed many Web Projects(PHP Core, Bootstrap, JS, JQuey), 2 Desktop Applications(C#, .NET), and 1 Android Application(Java).
-- 🌱 Currently working on a Web Porject using React and Python - Flask
+- 🌱 Currently working on a Web Porject using ReactJS and Python - Flask
 - 💞️ I’m looking to collaborate on Web Develpoment
 - 📫 How to reach me: 
 -         1. areebmughal779@gmail.com
