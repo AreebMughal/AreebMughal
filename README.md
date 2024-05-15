@@ -7,7 +7,7 @@
 -         1. areebarshad.m@gmail.com
 -         2. https://www.linkedin.com/in/areeb-arshad27/
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AreebMughal&theme=highcontrast&border_radius=6.6&mode=weekly)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebMughal&show_icons=true&theme=vision-friendly-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AreebMughal&theme=highcontrast&border_radius=6.6&mode=weekly)](https://git.io/streak-stats) &nbsp; &nbsp; ![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebMughal&show_icons=true&theme=vision-friendly-dark)
 
 <!--
 <div style="display: flex; flex: row; width: 100%; justify-content: space-between">
