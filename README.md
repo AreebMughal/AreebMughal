@@ -145,7 +145,7 @@ React -->
 
 <div align=center>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeb-arshad27/){:target="_blank"}
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeb-arshad27/)
   [![Gmail](https://img.shields.io/badge/Gmail-4caf50?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areebarshad.m@gmail.com)
   
 </div>
