@@ -2,7 +2,7 @@
 <!-- <img src="./images/react.png" style="width: 35px" title="sss">
 React -->
 
-👋 Hi, I’m @AreebArshad, a driven Software Engineer with major expertise in backend development. I have a strong background in structuring projects and databases, leading teams, and engaging with clients to clarify business requirements. I bring over 2.5 years of experience and proficiency in various technologies including Nest.js, Node.js, Express.js, React.js, Next.js, PostgreSQL, MySQL, MongoDB, Python, and Flask. A quick learner and adaptable professional, I thrive on challenges to deliver innovative solutions.
+👋 Hi, I’m @AreebArshad, a driven Software Engineer with major expertise in backend development. I have a strong background in structuring projects and databases, leading teams, and engaging with clients to clarify business requirements. I bring over 3 years of experience and proficiency in various technologies including Nest.js, Node.js, Express.js, React.js, Next.js, PostgreSQL, MySQL, MongoDB, Python, and Flask. A quick learner and adaptable professional, I thrive on challenges to deliver innovative solutions.
 
 <!--
 <div
